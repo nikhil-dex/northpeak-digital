@@ -1295,8 +1295,9 @@ code {
   .menu-btn { display: block; } 
   
   #mobile-nav-link{
-    color: green;
-    font-size: 25px;
+    color: darkblue;
+    font-size: 35px;
+    font-weight: bold;
 
     background: var(--c-bg);
   }/* hamburger show */
