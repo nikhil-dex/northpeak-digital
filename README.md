@@ -1,4 +1,8 @@
 # NorthPeak Digital
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![React](https://img.shields.io/badge/React-19-61DAFB)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 NorthPeak Digital is a fictional digital agency website built as part of the Digital Heroes Web Development Internship Task (2026).
 
@@ -10,6 +14,15 @@ The project focuses on building a modern, responsive, and accessible one-page ag
 - GitHub Repository: https://github.com/nikhil-dex/northpeak-digital
 
 ---
+## Preview
+
+### Desktop
+
+![Homepage](./screenshots/Hero.png)
+
+### Mobile
+
+![Mobile](./screenshots/Mobile_Hero.png)
 
 ## Overview
 
@@ -101,13 +114,23 @@ The website has been tested and optimized for:
 - Used Next.js App Router.
 - Used `next/font/google` for optimized font loading.
 - Implemented semantic HTML.
-- Added accessibility improvements.
+- Added Accessibility improvements including:
+  - Semantic HTML
+  - Proper heading hierarchy
+  - Keyboard-friendly navigation
+  - ARIA labels where applicable
+  - Sufficient color contrast
 - Used `clamp()` for responsive typography.
 - Removed unnecessary JavaScript.
 - Optimized production build using Vercel.
 - Implemented responsive layouts using modern CSS.
 
 ---
+
+## Deployment
+
+- Hosted on Vercel
+- Automatic deployments via GitHub integration
 
 ## Project Structure
 
@@ -181,3 +204,7 @@ Footer Requirement:
 ---
 
 Thank you for reviewing my submission.
+
+## License
+
+This project was created solely for the Digital Heroes Internship assignment and educational purposes.
